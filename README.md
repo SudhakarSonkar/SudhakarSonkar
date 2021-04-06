@@ -1,5 +1,5 @@
 <h1  align="center" >
-Hi there 👋, My name is Sudhakar Sonkar aka Sud's
+Hi there 👋, My name is Sudhakar Sonkar
 </h1>
 <h3 align="center">I'm looking to find out opportunities and learning new technologies!</h3>
 </br></br></br>
