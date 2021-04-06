@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Sudhakar Sonkar aka Sud's
 ![](https://sudhakarsonkar.github.io/github-profile-readme-generator/images/banner.png)
-
 I’m a Juniors year student of B.Tech Electronics & Communication Engineering at MMMUT Gorakhpur.
 
 Skills:  HTML / CSS / JAVASCRIPT /PHP /PYTHON /MACHINE LEARNING  
