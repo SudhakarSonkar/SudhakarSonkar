@@ -46,15 +46,15 @@ Hi there 👋, My name is Sudhakar Sonkar
 
 ### 💘 Github Trophies:-
 [![trophy](https://github-profile-trophy.vercel.app/?username=SudhakarSonkar&theme=gruvbox)](https://github.com/SudhakarSonkar/github-profile-trophy)
-</br>
+</br></br>
 
 ### 💘 Top Languages:-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarSonkar&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/SudhakarSonkar/github-readme-stats)
-</br>
+</br></br>
 
 ### 💘 Github Activity Graph:-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SudhakarSonkar)
-</br>
+</br></br>
 
 ### 💘 Github Metrics:-
 ![GitHub metrics](https://metrics.lecoq.io/SudhakarSonkar)  
