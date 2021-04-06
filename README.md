@@ -20,9 +20,9 @@ I’m a Juniors year student of B.Tech Electronics & Communication Engineering a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SudhakarSonkar&theme=gruvbox)](https://github.com/SudhakarSonkar/github-profile-trophy)
 
-[![Top Langs][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarSonkar&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/SudhakarSonkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarSonkar&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/SudhakarSonkar/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhakarSonkar&theme=radical)](https://github.com/SudhakarSonkar/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhakarSonkar&theme=radical)]
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SudhakarSonkar)  
 
@@ -30,4 +30,4 @@ I’m a Juniors year student of B.Tech Electronics & Communication Engineering a
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SudhakarSonkar)  
 
-![Profile views](https://gpvc.arturio.dev/SudhakarSonkar)  
+
