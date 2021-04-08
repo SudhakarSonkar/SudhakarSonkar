@@ -35,7 +35,7 @@ Hi there 👋, My name is Sudhakar Sonkar
 
 
 ### 💘 Github Stats:-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhakarSonkar&theme=radical)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhakarSonkar&theme=radical)
 </br>
 
 
