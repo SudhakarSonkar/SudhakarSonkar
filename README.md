@@ -9,7 +9,7 @@ Hi there 👋, My name is Sudhakar Sonkar
 <br><br>
 
 - 🔭 ***I'm a Final Year student of B.Tech Electronics & Communication Engineering at MMMUT Gorakhpur.***</br></br>
-- 🌱 ***I’m Currently learning Machine Learning.***</br></br>
+- 🌱 ***I’m Currently learning ReactJs.***</br></br>
 - 🥅 ***I’m focusing on Competitive Programming.***</br></br>
 - 👯 ***I want to contribute in open source projects.***</br></br>
 - 🎯 ***2021 Goals: To be an expert of Artificial Intelligence.***</br></br>
