@@ -1,5 +1,8 @@
 <h1  align="center" >
-Hi there 👋, My name is Sudhakar Sonkar
+Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />,, My name is Sudhakar Sonkar
 </h1>
 <h2 align="center">I'm looking to find out opportunities and learning new technologies!</h2>
 
@@ -17,6 +20,8 @@ Hi there 👋, My name is Sudhakar Sonkar
 - 📫 ***How to reach me: sudhakarsonkar007@gmail.com***</br></br>
 - 😄 ***Pronouns: He/his***</br></br>
 - ⚡ ***Fun fact: I like to watch cartoons and fairy tales.*** 😂</br></br>
+
+<a><img src="https://cdn.dribbble.com/users/63485/screenshots/7739432/media/58d521274d14982e86e9c3fdb21af9c0.gif"></a>
 
 
 ## 🧰 Languages and Tools:
