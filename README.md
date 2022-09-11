@@ -11,11 +11,7 @@ Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/SudhakarSonkar)[![Followers](https://img.shields.io/github/followers/SudhakarSonkar?style=social)](https://github.com/SudhakarSonkar?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SudhakarSonkar?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sudhakar-sonkar/)
 <br><br>
 
-- 🔭 ***I'm a Final Year student of B.Tech Electronics & Communication Engineering at MMMUT Gorakhpur.***</br></br>
-- 🌱 ***I’m Currently learning ReactJs.***</br></br>
-- 🥅 ***I’m focusing on Competitive Programming.***</br></br>
-- 👯 ***I want to contribute in open source projects.***</br></br>
-- 🎯 ***2021 Goals: To be an expert of Artificial Intelligence.***</br></br>
+- 🔭 ***Software Engineer at Gemini Solutions.***</br></br>
 - 💬 ***Ask me about: Web Development, Machine Learning and Internet of Things.***</br></br>
 - 📫 ***How to reach me: sudhakarsonkar007@gmail.com***</br></br>
 - 😄 ***Pronouns: He/his***</br></br>
