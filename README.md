@@ -1,73 +1,169 @@
 <h1 align="center">
-  Hi there 👋 I'm Sudhakar Sonkar
+Hi 👋, I'm Sudhakar Sonkar
 </h1>
 
+<h3 align="center">
+Data Engineer | Python Developer | DataOps Engineer | AWS Enthusiast
+</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Python+%26+Django+Developer;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing Animation" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Python+Developer;Building+Reliable+Data+Pipelines;AWS+%7C+SQL+%7C+DataOps;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SudhakarSonkar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sudhakar-sonkar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sudhakarsonkar007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://github.com/SudhakarSonkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/sudhakar-sonkar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 👨‍💻 About Me  
-- 💼 Software Engineer at **Gemini Solutions**  
-- 🌱 Currently enhancing expertise in **Backend Development & Scalable Systems**  
-- 💡 Interested in **Web Development, Machine Learning, and Cloud Technologies**  
-- 🧑‍🤝‍🧑 Open to collaboration on **open-source projects & innovative ideas**  
-- 🎯 Goal: Build impactful applications that solve **real-world problems**  
-
----
-
-### 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<a href="mailto:sudhakarsonkar007@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Insights  
+# 💫 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudhakarSonkar&show_icons=true&theme=github_dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarSonkar&layout=compact&theme=github_dark&hide_border=true" height="180" />
+💼 Software Engineer @ **Gemini Solutions Pvt. Ltd.**
+
+📊 Working on enterprise **Financial Market Data Pipelines** for global investment clients.
+
+🐍 Strong experience with
+
+- Python
+- SQL
+- AWS
+- Linux
+- Data Validation
+- Automation
+- REST APIs
+
+⚡ Experienced in
+
+- ETL Pipelines
+- Data Processing
+- Monitoring & Alerting
+- Data Quality
+- Metadata Management
+- Production Support
+
+🌱 Currently learning
+
+- Apache Spark
+- Databricks
+- Airflow
+- Kafka
+- Snowflake
+
+🎯 Career Goal
+
+Become a **Senior Data Engineer** building scalable cloud-native data platforms.
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhakarSonkar&theme=github-dark-blue&hide_border=true" height="180" />
+### Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+**Python Libraries**
+
+- Pandas
+- NumPy
+
+**Currently Working With**
+
+- ETL
+- Data Pipelines
+- Data Validation
+- Data Quality
+- REST APIs
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Trophies  
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SudhakarSonkar&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudhakarSonkar&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarSonkar&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SudhakarSonkar&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-### 🤝 Connect with Me  
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/SudhakarSonkar"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/sudhakar-sonkar/"><img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/_sudhakarsonkar"><img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/localhost07/"><img src="https://img.icons8.com/ios-filled/30/E4405F/instagram.png" alt="Instagram"/></a>
-  <a href="mailto:sudhakarsonkar007@gmail.com"><img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png" alt="Email"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=SudhakarSonkar&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- AWS Data Engineering
+- Apache Spark
+- Databricks
+- Airflow
+- Kafka
+- Snowflake
+- System Design
+- Data Modeling
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sudhakar-sonkar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sudhakarsonkar007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SudhakarSonkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Turning raw data into reliable insights through scalable engineering."</i>
 </p>
